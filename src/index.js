@@ -7,7 +7,7 @@ import { postToWarpcast } from "./utils/cast.js";
 
 config();
 
-const collections = ["beepboop-1", "testing-936"]; // Your collections
+const collections = ["twistedtweaks", "tweaks"]; // Your collections
 
 const eventTypes = [
   EventType.ITEM_LISTED,
